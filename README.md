@@ -1,2 +1,2 @@
-# template-leetcode
+# Mars-Leetcode
 leetcode
