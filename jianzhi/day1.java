@@ -1,4 +1,4 @@
-package com.jianzhi;
+package jianzhi;
 
 import java.util.Deque;
 import java.util.LinkedList;
